@@ -7,6 +7,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ryotaroabe45123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ryotaroabe45123" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100091988867444" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ryotaroabe45123" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ryotaro-abe-959520215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ryotaroabe45123" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
